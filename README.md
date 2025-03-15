@@ -1,0 +1,1 @@
+Uses Grid Layout to present 4 buttons – in each of 3 activities.  There is a main activity, a standard activity, ad a single top activity.  Three buttons allow for movement to any of these – and there is a 4th “Back” button to pop the stack and revert to previous screen (back kills the top screen).  Good for learning about the activity stack and moving through it.
